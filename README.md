@@ -17,14 +17,14 @@
 
 This webpage shows a sneak peek into the project I have developed and deployed, showcasing my skills in HTML and CSS. A mobile responsive portfolio landing page.
 
-**[Desktop Portfolio Project]** is an HTML and CSS project
+**[Desktop Portfolio Project]** is an HTML and BOOTSTRAP project
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 - HTML
-- CSS
+- BOOTSTRAP
 
 ### Key Features <a name="key-features"></a>
 - **A desktop responsive page with a minimum width of 375px**
@@ -88,6 +88,11 @@ You can deploy this project using:
 - GitHub: [ngalamac](https://github.com/ngalamac/Ngala-Portfolio.git)
 - LinkedIn: [Ngala Mac](https://www.linkedin.com/in/ngala-mac-872a65220/)
 
+👤 **Ishimwe (WazaCode) Joseph Patient**
+
+- Github : [IshimwePati](https://github.com/ishimwepati)
+- LinkedIn : [Ishimwe Joseph Patient](https://www.linkedin.com/in/ishimwe-joseph-patient-0537b4155/)
+- 
 ## 🔭 Future Features <a name="future-features"></a>
 
 - A desktop responsive portfolio website
