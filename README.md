@@ -88,8 +88,10 @@ You can deploy this project using:
 - GitHub: [ngalamac](https://github.com/ngalamac/Ngala-Portfolio.git)
 - LinkedIn: [Ngala Mac](https://www.linkedin.com/in/ngala-mac-872a65220/)
 
+👤 **Ishimwe (WazaCode) Joseph Patient**
+
 - Github : [IshimwePati](https://github.com/ishimwepati)
-- LinkedIn : [Ishimwe Joseph] (https://www.linkedin.com/in/ishimwe-joseph-patient-0537b4155/)
+- LinkedIn : [Ishimwe Joseph Patient](https://www.linkedin.com/in/ishimwe-joseph-patient-0537b4155/)
 - 
 ## 🔭 Future Features <a name="future-features"></a>
 
